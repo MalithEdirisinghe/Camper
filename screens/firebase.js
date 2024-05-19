@@ -5,12 +5,12 @@ import { getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBtDkmxjLQhgHqZZbrdvc1qvUv7PJ6wtgc",
-    authDomain: "campershield.firebaseapp.com",
-    projectId: "campershield",
-    storageBucket: "campershield.appspot.com",
-    messagingSenderId: "365120305435",
-    appId: "1:365120305435:web:bd18984473585eedfa7bbe"
+    apiKey: "AIzaSyAP5aKnWs2POayk3xZNjJfbKtTsNSlQtjY",
+  authDomain: "campershield-af185.firebaseapp.com",
+  projectId: "campershield-af185",
+  storageBucket: "campershield-af185.appspot.com",
+  messagingSenderId: "896017261544",
+  appId: "1:896017261544:web:6aeb63743959ff39083a5d"
 };
 
 // Initialize Firebase if it's not already initialized
